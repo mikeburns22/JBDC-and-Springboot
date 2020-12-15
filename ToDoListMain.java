@@ -75,8 +75,8 @@ public class ToDoListMain {
         ds.setServerName("localhost");
         ds.setDatabaseName("todoDB");
         ds.setUser("root");
-        ds.setPassword("mjb123567");
-        ds.setServerTimezone("America/NewYork");
+        ds.setPassword("rootroot");
+        ds.setServerTimezone("America/Chicago");
         ds.setUseSSL(false);
         ds.setAllowPublicKeyRetrieval(true);
 
